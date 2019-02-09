@@ -1,5 +1,11 @@
 /* your styles go here */
 
+body {
+	background-color: #000;
+	background-image: url("https://stmed.net/sites/default/files/nicolas-cage-wallpapers-27174-1246435.jpg");
+	background-image: no-repeat;
+}
+
 #gallery{
 	height: 100vh;
 }
